@@ -1,27 +1,27 @@
 [
     {
         "name": "EdiZon - latest",
-        "zip-url": "https://api.github.com/repos/proferabg/EdiZon-Overlay/releases?per_page=1&sort=created&order=desc",
+        "zip-url": "https://api.github.com/repos/ppkantorski/EdiZon-Overlay/releases?per_page=1&sort=created&order=desc",
         "download-entry": "0"
     },
     {
         "name": "FPSLocker - latest",
-        "ovl-url": "https://api.github.com/repos/masagrator/FPSLocker/releases?per_page=1&sort=created&order=desc",
+        "ovl-url": "https://api.github.com/repos/ppkantorski/FPSLocker/releases?per_page=1&sort=created&order=desc",
         "download-entry": "0"
     },
     {
         "name": "Fizeau - latest",
-        "zip-url": "https://api.github.com/repos/averne/Fizeau/releases?per_page=1&sort=created&order=desc",
+        "zip-url": "https://api.github.com/repos/ppkantorski/Fizeau/releases?per_page=1&sort=created&order=desc",
         "download-entry": "0"
     },
     {
         "name": "nx-ovlloader - latest",
-        "zip-url": "https://api.github.com/repos/WerWolv/nx-ovlloader/releases?per_page=1&sort=created&order=desc",
+        "zip-url": "https://api.github.com/repos/ppkantorski/nx-ovlloader/releases?per_page=1&sort=created&order=desc",
         "download-entry": "0"
     },
     {
         "name": "QuickNTP - latest",
-        "ovl-url": "https://api.github.com/repos/nedex/QuickNTP/releases?per_page=1&sort=created&order=desc",
+        "ovl-url": "https://api.github.com/repos/ppkantorski/QuickNTP/releases?per_page=1&sort=created&order=desc",
         "download-entry": "0"
     },
     {
@@ -52,11 +52,6 @@
     {
         "name": "sys-ftpd-light - latest",
         "zip-url": "https://api.github.com/repos/cathery/sys-ftpd/releases/latest",
-        "download-entry": "0"
-    },
-    {
-        "name": "sys-patch - latest",
-        "zip-url": "https://api.github.com/repos/ITotalJustice/sys-patch/releases?per_page=1&sort=created&order=desc",
         "download-entry": "0"
     },
     {
