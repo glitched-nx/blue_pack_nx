@@ -1,5 +1,5 @@
 .gitignore
-Wiki/Baumstruktur.md
-Wiki/Release_Notes.md
-Wiki/Neufassung Anleitung Nr.12 NXFL.md
-Wiki/Umzug_auf_größere_SD-Karte.md
+.wiki/Baumstruktur.md
+.Wikiwiki/Release_Notes.md
+.wiki/Neufassung Anleitung Nr.12 NXFL.md
+.wiki/Umzug_auf_größere_SD-Karte.md
