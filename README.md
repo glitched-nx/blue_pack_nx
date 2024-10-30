@@ -6,7 +6,7 @@
   <h3><a href="https://github.com/glitched-nx/blue_pack_NX" style="color:#003fff">blue pack NX - AIO CFW PACK</a></h3>
 
 ---
-  <a href="https://github.com/glitched-nx/blue_pack_NX/releases/latest" style="background-color: #002299; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; font-size: 16px;">DOWNLOAD LATEST RELEASE</a>
+  <a href="https://github.com/glitched-nx/blue_pack_NX/releases/latest" style="background-color: #002255; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 8px; font-size: 12px;">DOWNLOAD LATEST RELEASE</a>
 </div>
 
 ---
