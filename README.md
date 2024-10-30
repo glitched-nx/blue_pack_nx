@@ -1,15 +1,12 @@
 <p align="center">
-  <img src="logo-banner.png?raw=true" alt="Banner">
+  <img src="https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/.blue_pack_Wiki\main_pix\blue_aio_wall_banner.png?raw=true" alt="Banner">
 </p>
 
-<div align="center"> 
-  <h3><a href="https://github.com/glitched-nx/blue_pack_NX" style="color:#003fff">blue pack NX - AIO CFW PACK</a></h3>
+<div align="center">
 
----
   <a href="https://github.com/glitched-nx/blue_pack_NX/releases/latest" style="background-color: #002255; color: white; padding: 5px 10px; text-align: center; text-decoration: none; display: inline-block; border-radius: 8px; font-size: 12px;">DOWNLOAD LATEST RELEASE</a>
 </div>
 
----
 <p align="center">
   <img src="https://img.shields.io/github/license/Atmosphere-NX/Atmosphere?style=plastic&labelColor=%23abc4ff&color=%230d3ce6" alt="GitHub License">
   <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/glitched-nx/blue_pack_nx?style=plastic&logoSize=auto&label=blue pack NX&labelColor=%23abc4ff&color=%230d3ce6">
