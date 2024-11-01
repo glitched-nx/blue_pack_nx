@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/.blue_pack_Wiki\main_pix\blue_aio_wall_banner.png?raw=true" alt="Banner">
+  <img src="https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/wiki/pics/blue_aio_wall_banner.png?raw=true" alt="Banner">
 </p>
 
 <div align="center">
