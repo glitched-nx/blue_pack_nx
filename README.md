@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/blue_pack_wiki/pics/blue_aio_wall_banner.png?raw=true" alt="Banner">
-</p>
+![sd_partition_erista_oled](https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/blue_pack_NX_wiki/pics/blue_aio_wall_banner.png)
 
 <div align="center">
 
