@@ -39,5 +39,15 @@
         "name": "quickReBoot - latest",
         "label": "quickReBoot",
         "file-1-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/quickReBoot/package.ini"
+    },
+    {
+        "name": "NX Firmware Loader - latest",
+        "label": "NX Firmware Loader",
+        "file-1-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/NX%20Firmware%20Loader/package.ini"
+    },
+    {
+        "name": "Tinfoil Loader - latest",
+        "label": "Tinfoil Loader",
+        "file-1-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/Tinfoil%20Loader/package.ini"
     }
 ]
