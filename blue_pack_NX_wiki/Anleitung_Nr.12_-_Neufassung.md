@@ -53,12 +53,8 @@ Außerdem enthält die ```Neufassung``` jetzt einen detaillierteren Leitfaden zu
    - Ordner/Dateien, die sich zusätzlich auf der SD-Karte befinden, wie z.B. ```switchroot```, ```Android```, ```Lakka```, ```DBI```, ```RetroArch```, ```Roms```, ```Tinfoil```, ```TegraExplorer```, ```Themes``` etc., sind für das CFW-Upgrade nicht relevant und können/sollten auf der SD-Karte bleiben.
 
 5. Kehre anschließend zum Hauptverzeichnis der SD-Karte zurück.
-   
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/blue_pack_NX_wiki/pics/guide_12-1_light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/blue_pack_NX_wiki/pics/guide_12-1_dark.png">
-  <img alt="Beschreibung" src="https://github.com/DEIN-REPO-PFAD/DEIN-BILD_light.png">
-</picture>
+
+![blue-pack_wiki_guide_12](https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/blue_pack_NX_wiki/pics/guide_12-1.png)
 
 ---
 <div align="center">
@@ -74,11 +70,7 @@ Außerdem enthält die ```Neufassung``` jetzt einen detaillierteren Leitfaden zu
 2. Entpacke den gesamten Inhalt der Datei ```blue_pack_NX.zip``` in das Hauptverzeichnis der SD-Karte.
    - Es ist wichtig, alle Dateien vollständig und korrekt zu entpacken und zu ersetzen.
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/blue_pack_NX_wiki/pics/guide_12-2_light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/blue_pack_NX_wiki/pics/guide_12-2_dark.png">
-  <img alt="Beschreibung" src="https://github.com/DEIN-REPO-PFAD/DEIN-BILD_light.png">
-</picture>
+[blue-pack_wiki_guide_12](https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/blue_pack_NX_wiki/pics/guide_12-2.png)
 
 1. Die SD-Karte ist nun bereit und kann sicher vom PC entfernt werden.
    - Klicke dazu mit der rechten Maustaste auf das Switch-SD-Laufwerk.
