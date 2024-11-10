@@ -70,7 +70,7 @@ Außerdem enthält die ```Neufassung``` jetzt einen detaillierteren Leitfaden zu
 2. Entpacke den gesamten Inhalt der Datei ```blue_pack_NX.zip``` in das Hauptverzeichnis der SD-Karte.
    - Es ist wichtig, alle Dateien vollständig und korrekt zu entpacken und zu ersetzen.
 
-[blue-pack_wiki_guide_12_2](https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/blue_pack_NX_wiki/pics/guide_12_pic_2.png)
+![blue-pack_wiki_guide_12_2](https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/blue_pack_NX_wiki/pics/guide_12_pic_2.png)
 
 1. Die SD-Karte ist nun bereit und kann sicher vom PC entfernt werden.
    - Klicke dazu mit der rechten Maustaste auf das Switch-SD-Laufwerk.
