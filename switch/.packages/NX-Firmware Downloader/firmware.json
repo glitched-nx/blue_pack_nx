@@ -1,0 +1,7 @@
+[
+    {
+    "name": "NX_Firmware - latest",
+    "zip-url": "https://api.github.com/repos/THZoria/NX_Firmware/releases?per_page=1&sort=created&order=desc",
+    "download-entry": "1"
+    }
+]

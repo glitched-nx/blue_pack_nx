@@ -41,13 +41,13 @@
         "file-1-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/quickReBoot/package.ini"
     },
     {
-        "name": "NX Firmware Loader - latest",
-        "label": "NX Firmware Loader",
-        "file-1-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/NX%20Firmware%20Loader/package.ini"
+        "name": "NX-Firmware Downloader - latest",
+        "label": "NX-Firmware Downloader",
+        "file-1-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/NX-Firmware%20Downloader/package.ini"
     },
     {
-        "name": "Tinfoil Loader - latest",
-        "label": "Tinfoil Loader",
-        "file-1-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/Tinfoil%20Loader/package.ini"
+        "name": "Tinfoil DL_Update - latest",
+        "label": "Tinfoil DL_Update",
+        "file-1-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/Tinfoil%20DL_Update/package.ini"
     }
 ]

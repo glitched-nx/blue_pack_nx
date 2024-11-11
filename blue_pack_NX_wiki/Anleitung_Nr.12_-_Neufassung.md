@@ -2,10 +2,11 @@
 
 <div align="center">
 
-### Anleitung Nr. 12 - Neufassung
-#### Upgrade/Wechsel von einem anderen/älteren CFW-Pack auf das NX blue pack - Firmware Download & Update
-
+# Anleitung Nr. 12 - Neufassung
 </div>
+
+### - Upgrade oder Wechsel von einem anderen oder älteren CFW Setup.
+### - Download und Update der Switch Firmware. 
 
 Willkommen zur ```Neufassung``` unserer ```Anleitung Nr. 12```. Diese Anleitung unterstützt dich Schritt für Schritt bei der Durchführung eines ```CFW - emuMMC```-Upgrades oder -Wechsels zu unserem neuesten ```NX blue pack - All in One CFW Pack```, um deine Switch-Konsole mittels der saubersten Methode auf den neuesten Stand zu bringen. Ganz egal, ob deine Konsole noch ein älteres CFW-emuMMC-Setup von uns hat oder ein CFW-Setup von dritten genutzt wurde.
 
@@ -23,14 +24,7 @@ Außerdem enthält die ```Neufassung``` jetzt einen detaillierteren Leitfaden zu
 
 - **```Wenn du dieser Anleitung folgst, bleiben deine Spiele und Spielstände erhalten.```**
 
----
-<div align="center">
-
-# I
-
-### SD-Karte vorbereiten und bereinigen
-
-</div>
+## I.    SD-Karte vorbereiten und bereinigen
 
 1. Starte die Switch neu, um den Hekate Bootloader zu laden.
    - Falls die Switch ausgeschaltet ist, führe bei einer V1 Switch die RCM-Payload-Methode aus oder starte die Switch ganz normal, wenn ein ModChip eingebaut ist.
@@ -57,13 +51,8 @@ Außerdem enthält die ```Neufassung``` jetzt einen detaillierteren Leitfaden zu
 ![blue-pack_wiki_guide_12_1](https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/blue_pack_NX_wiki/pics/guide_12_pic_1.png)
 
 ---
-<div align="center">
 
-# II
-
-### Upgrade durchführen mit der aktuellen ZIP-Datei des ```NX blue pack - AIO CFW Pack```
-
-</div>
+## II. Upgrade durchführen mit der aktuellen ZIP-Datei des ```NX blue pack - AIO CFW Pack```
 
 1. Lade das neueste NX blue pack [hier](https://github.com/glitched-nx/blue_pack_NX/releases/latest) herunter.
 
@@ -86,13 +75,8 @@ Außerdem enthält die ```Neufassung``` jetzt einen detaillierteren Leitfaden zu
    - Hinweis: Stelle die Uhrzeit nicht manuell ein, da Tinfoil sonst den Download verweigert, weil die Uhrzeit falsch ist.
 
 ---
-<div align="center">
 
-# III
-
-### Firmware-Download und Update mit Daybreak Quick direkt über die Switch
-
-</div>
+## III. Firmware-Download und Update mit Daybreak Quick direkt über die Switch
 
 #### Für das Firmware-Update kannst du deine Switch-Konsole direkt nutzen. Folge diesen Schritten:
 
@@ -116,15 +100,27 @@ Außerdem enthält die ```Neufassung``` jetzt einen detaillierteren Leitfaden zu
 
 Um die aktuelle Version deiner System- oder Atmosphere-Software zu überprüfen, öffne die Systemeinstellungen. Scrolle ganz nach unten zu ```Konsole``` und wähle dann rechts ```System-Update``` aus.
 
+---
+
+<div align="center" style="font-size: 2em;">
+  <img src="https://img.shields.io/github/v/release/THZoria/NX_Firmware?style=for-the-badge&label=Aktuelle%20Systemversion&labelColor=123ede&color=b3b9e8" alt="Aktuelle Systemversion" />
+  | 
+  <img src="https://img.shields.io/github/v/release/glitched-nx/atmosphere_blue?include_prereleases&style=for-the-badge&label=BLUE&labelColor=123ede&color=b3b9e8" alt="BLUE" />
+  | E
+  </p>
+</div>
 
 ---
 
 <div align="center">
 
-# ![Aktuelle Systemversion](https://img.shields.io/github/v/release/THZoria/NX_Firmware?style=for-the-badge&label=Aktuelle%20Systemversion&labelColor=123ede&color=b3b9e8) | ![BLUE](https://img.shields.io/github/v/release/glitched-nx/atmosphere_blue?include_prereleases&style=for-the-badge&label=BLUE&labelColor=123ede&color=b3b9e8)  | E
+![GitHub License](https://img.shields.io/github/license/Atmosphere-NX/Atmosphere?style=for-the-badge&labelColor=123ede&color=123ede)&emsp;
+[![NX blue pack - AIO CFW PACK](https://img.shields.io/github/v/release/glitched-nx/blue_pack_nx?style=for-the-badge&label=NX%20blue%20pack%20-%20AIO%20CFW%20PACK&labelColor=123ede&color=b3b9e8)](https://github.com/glitched-nx/blue_pack_NX/releases/latest)&emsp;
+[![NX blue pack DLs](https://img.shields.io/github/downloads/glitched-nx/blue_pack_nx/total?style=for-the-badge&label=NX%20blue%20pack%20Downloads&labelColor=123ede&color=b3b9e8)](https://github.com/glitched-nx/blue_pack_NX/releases/latest)
 
-![NX blue pack - AIO CFW PACK](https://img.shields.io/github/v/release/glitched-nx/blue_pack_nx?style=for-the-badge&label=NX%20blue%20pack%20-%20AIO%20CFW%20PACK&labelColor=123ede&color=b3b9e8)&emsp;
-[![CFW - Homebrew - Modding Deutschland](https://img.shields.io/badge/CFW%20--%20Homebrew%20--%20Modding%20Deutschland-b3b9e8?style=for-the-badge&logo=facebook&logoColor=123ede)](https://facebook.com/groups/switchcfwde)
+
+[![CFW - Homebrew - Modding Deutschland](https://img.shields.io/badge/CFW%20--%20Homebrew%20--%20Modding%20Deutschland-b3b9e8?style=for-the-badge&logo=facebook&logoColor=123ede)](https://facebook.com/groups/switchcfwde)&emsp;
+[![NX blue pack WIKI](https://img.shields.io/badge/NX%20blue%20pack%20WIKI-b3b9e8?style=for-the-badge&logo=facebook&logoColor=123ede)](https://github.com/glitched-nx/blue_pack_NX/wiki)
+
 
 </div>
-
