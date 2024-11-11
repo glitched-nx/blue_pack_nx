@@ -27,23 +27,3 @@
 
 ---
 
-
-
-<h2 style="font-family: Arial, sans-serif; font-size: 24px;">
-  <a href="https://github.com/glitched-nx/blue_pack_NX/releases/latest" style="text-decoration: none; color: #ffffff;">
-    NX blue pack
-  </a>
-  <span id="version" style="color: #ff0000; font-weight: normal;"></span>
-</h2>
-
-<script>
-  fetch("https://api.github.com/repos/glitched-nx/blue_pack_NX/releases/latest")
-    .then(response => response.json())
-    .then(data => {
-      // Entferne das "v" falls vorhanden
-      const version = data.tag_name.startsWith("v") ? data.tag_name.slice(1) : data.tag_name;
-      document.getElementById("version").textContent = version;
-    })
-    .catch(error => console.error("Error fetching version:", error));
-</script>
-
