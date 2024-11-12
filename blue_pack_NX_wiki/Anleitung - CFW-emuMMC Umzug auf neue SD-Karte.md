@@ -1,4 +1,4 @@
-## Umzug/Wechsel auf eine andere/größere SD-Karte
+## Anleitung CFW - emuMMC Umzug auf neue SD-Karte
 
 Das Ziel dieses Vorgangs ist es, den Speicherplatz der Switch-SD-Karte zu erweitern, um mehr Spiele speichern zu können. Dabei soll sichergestellt werden, dass installierte Spiele, Spielstände und Profile korrekt auf die neue, größere SD-Karte übertragen werden.
 
