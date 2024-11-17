@@ -12,7 +12,7 @@
 
 <div align="center" style="font-size: 2em;">
   <img src="https://img.shields.io/github/v/release/THZoria/NX_Firmware?style=for-the-badge&label=Aktuelle%20Systemversion&labelColor=123ede&color=b3b9e8" alt="Aktuelle Systemversion" />&emsp;
-  <img src="https://img.shields.io/github/v/release/glitched-nx/atmosphere_blue?include_prereleases&style=for-the-badge&label=ATMO BLUE&labelColor=123ede&color=b3b9e8" alt="ATMO BLUE" />
+  <img src="https://img.shields.io/github/v/release/glitched-nx/atmo_blue?include_prereleases&style=for-the-badge&label=ATMO BLUE&labelColor=123ede&color=b3b9e8" alt="ATMO BLUE" />
   </p>
 </div>
 
