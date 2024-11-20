@@ -41,13 +41,9 @@
         "file-1-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/quickReBoot/package.ini"
     },
     {
-        "name": "NX-Firmware Downloader - latest",
-        "label": "NX-Firmware Downloader",
-        "file-1-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/NX-Firmware%20Downloader/package.ini"
-    },
-    {
-        "name": "Tinfoil DL_Update - latest",
-        "label": "Tinfoil DL_Update",
-        "file-1-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/Tinfoil%20DL_Update/package.ini"
+        "name": "NX blue pack & NX-Firmware Downloader - latest",
+        "label": "NX blue pack & NX-Firmware Downloader",
+        "file-1-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/NX%20blue%20pack%20&%20NX-Firmware%20Downloader/package.ini",
+        "file-2-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/NX%20blue%20pack%20&%20NX-Firmware%20Downloader/packages.json"
     }
 ]

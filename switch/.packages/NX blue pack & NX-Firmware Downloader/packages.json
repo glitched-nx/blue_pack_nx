@@ -1,0 +1,8 @@
+[
+    {
+        "name": "blue pack & Firmware Downloader - latest",
+        "label": "blue pack & Firmware Downloader",
+        "file-1-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/blue%20pack%20&%20Firmware%20Downloader/package.ini",
+        "file-2-url": "https://raw.githubusercontent.com/glitched-nx/Ultrahand-Overlay/main/examples/blue%20pack%20&%20Firmware%20Downloader/packages.json"
+    }
+]
