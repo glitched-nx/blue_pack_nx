@@ -131,5 +131,12 @@ Um die aktuelle Version deiner System- oder Atmosphere-Software zu überprüfen,
 [![CFW - Homebrew - Modding Deutschland](https://img.shields.io/badge/CFW%20--%20Homebrew%20--%20Modding%20Deutschland-b3b9e8?style=for-the-badge&logo=facebook&logoColor=123ede)](https://facebook.com/groups/switchcfwde)&emsp;
 [![NX blue pack WIKI](https://img.shields.io/badge/NX%20blue%20pack%20WIKI-b3b9e8?style=for-the-badge&logo=facebook&logoColor=123ede)](https://github.com/glitched-nx/blue_pack_NX/wiki)
 
+</div>
+
+---
+
+<div align="center">
+
+![glitched_nx_logo](https://github.com/glitched-nx/blue_pack_NX/raw/blue_pack/blue_pack_NX_wiki/pics/glitched_nx_metal_logo.png)
 
 </div>
