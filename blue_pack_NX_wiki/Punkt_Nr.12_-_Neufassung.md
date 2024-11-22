@@ -93,6 +93,16 @@ Außerdem enthält die ```Neufassung``` jetzt einen detaillierteren Leitfaden zu
    - Wähle ```Switch neustarten```, um den Neustart einzuleiten. Nach dem Neustart wird Hekate gestartet.
 6. Starte von Hekate aus über das Launch-Menü erneut mit dem Button ```atmosphere blue emu```, um das Firmware-Update abzuschließen.
 
+Zusatz
+- **Verwendung von Paketen im Ultrahand-Overlay**
+  - Um Ultrahand zu öffnen, drücke gleichzeitig die **`L + R + Plus (+)`** Tasten-Kombi, unabhängig davon, was gerade auf der Switch gemacht wird.
+  - Das Ultrahand-Overlay-Menü besteht aus den beiden Kategorien Overlays und Pakete (Packages). Navigiere mit den Richtungstasten zum Pakete-Menü und wähle dort ein Paket aus, z.B. `NX-Firmware Downloader`.
+  
+- **NX-Firmware Downloader (Neu)**
+  - Dieses Paket ermöglicht es, über das `Ultrahand-Overlay-Menü` die neueste Switch-Firmware über Ultrahand herunterzuladen, anstatt den All-In-One-Updater zu verwenden.
+  - Die Firmware wird automatisch entpackt und im Hauptverzeichnis der SD-Karte abgelegt.
+  - Anschließend kann ein Downgrade oder Update mit Daybreak durchgeführt werden.
+
 ---
 
 ### Glückwunsch, deine Switch läuft jetzt mit dem neuesten ```NX blue pack``` und der aktuellen ```Firmware```.
