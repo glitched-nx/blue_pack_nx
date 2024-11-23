@@ -83,25 +83,31 @@ Außerdem enthält die ```Neufassung``` jetzt einen detaillierteren Leitfaden zu
 2. Starte das Tool ```AIO Switch Updater - Switch```.
    - Navigiere zu ```Download Firmwares```.
    - Wähle die aktuelle Firmware auf der rechten Seite aus und bestätige die Auswahl. Für einen schnelleren Download empfehlen wir die Quelle ```mega.nz```.
-   - Die Firmware wird heruntergeladen, automatisch entpackt und als Ordner namens ```firmware``` im Hauptverzeichnis der SD-Karte abgelegt.
-3. Schließe das Tool und kehre mit der Taste ```+``` zum ```Homebrew-Menü``` zurück.
-4. Starte nun ```Daybreak Quick```, um das Update durchzuführen.
+   - Die Firmware wird heruntergeladen, automatisch entpackt und als Ordner namens ```firmware``` im Hauptverzeichnis der SD-Karte abgelegt. 
+   - **Alternativ** kannst du die Firmware über das Ultrahand-Overlay herunterladen. Gehe alternativ nach der Anleitung weiter unten vor und fahre anschließend hier mit Punkt 4 fort.
+3. Schließe das Tool mit der Taste ```+```.
+4. Im ```Homebrew-Menü```.
+5. Starte nun ```Daybreak Quick```, um das Update durchzuführen.
    - Wähle ```Weiter```, um fortzufahren.
    - Wähle den Firmware-Ordner ```firmware``` aus dem vorherigen Download aus und bestätige mit der Taste ```A```.
    - Beginne das Firmware-Update mit ```Update jetzt durchführen``` nach erfolgreicher Überprüfung.
-5. Nach Abschluss des Updatevorgangs ist ein Neustart erforderlich.
+6. Nach Abschluss des Updatevorgangs ist ein Neustart erforderlich.
    - Wähle ```Switch neustarten```, um den Neustart einzuleiten. Nach dem Neustart wird Hekate gestartet.
-6. Starte von Hekate aus über das Launch-Menü erneut mit dem Button ```atmosphere blue emu```, um das Firmware-Update abzuschließen.
+7. Starte von Hekate aus über das Launch-Menü erneut mit dem Button ```atmosphere blue emu```, um das Firmware-Update abzuschließen.
 
-Zusatz
-- **Verwendung von Paketen im Ultrahand-Overlay**
-  - Um Ultrahand zu öffnen, drücke gleichzeitig die **`L + R + Plus (+)`** Tasten-Kombi, unabhängig davon, was gerade auf der Switch gemacht wird.
-  - Das Ultrahand-Overlay-Menü besteht aus den beiden Kategorien Overlays und Pakete (Packages). Navigiere mit den Richtungstasten zum Pakete-Menü und wähle dort ein Paket aus, z.B. `NX-Firmware Downloader`.
-  
-- **NX-Firmware Downloader (Neu)**
-  - Dieses Paket ermöglicht es, über das `Ultrahand-Overlay-Menü` die neueste Switch-Firmware über Ultrahand herunterzuladen, anstatt den All-In-One-Updater zu verwenden.
-  - Die Firmware wird automatisch entpackt und im Hauptverzeichnis der SD-Karte abgelegt.
-  - Anschließend kann ein Downgrade oder Update mit Daybreak durchgeführt werden.
+#### **Alternative Möglichkeit zum Herunterladen der aktuellen Firmware**
+
+- **Firmware-Download über Ultrahand-Overlay**
+  - Um das Ultrahand-Overlay-Menü zu öffnen, drücke gleichzeitig die **`L + R + Plus`** Tasten-Kombination.
+  - Das Ultrahand-Overlay-Menü besteht aus den beiden Kategorien Overlays und Pakete (Packages). Navigiere mit den Richtungstasten zum Pakete-Menü und wähle dort das Paket `NX-Firmware Downloader`.
+  - Dieses Paket ermöglicht es, alternativ zum AIO-Updater, die neueste Switch-Firmware über das `Ultrahand-Overlay-Menü` herunterzuladen.
+  - Wähle die aktuelle Firmware zum Download mit der A-Taste aus.
+  - Der Download wird durchgeführt und anschließend entpackt im Hauptverzeichnis der SD-Karte abgelegt.
+- **Hinweise:**
+  - Download- und Entpackvorgang: Der angezeigte Prozentwert wird zweimal hochgezählt.
+  - Dieses Paket ist neu und wird noch weiter verbessert.
+
+  - Anschließend kann das Up- oder Downgrade mit `Daybreak` ausgewählt und installiert werden.
 
 ---
 
