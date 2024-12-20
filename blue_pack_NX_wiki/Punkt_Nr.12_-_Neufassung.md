@@ -2,11 +2,11 @@
 
 <div align="center">
 
-## Punkt Nr.12 - Neufassung
+## **Punkt Nr.12 - Neufassung**
 </div>
 
-### - Upgrade oder Wechsel von einem anderen oder älteren CFW Setup.
-### - Download und Update der Switch Firmware. 
+### **- Upgrade oder Wechsel von einem anderen oder älteren CFW Setup.**
+### **- Download und Update der Switch Firmware.** 
 
 Willkommen zur ```Neufassung``` unserer ```Punkt Nr. 12```. Diese Anleitung unterstützt dich Schritt für Schritt bei der Durchführung eines ```CFW - emuMMC```-Upgrades oder -Wechsels zu unserem neuesten ```NX blue pack - All in One CFW Pack```, um deine Switch-Konsole mittels der saubersten Methode auf den neuesten Stand zu bringen. Ganz egal, ob deine Konsole noch ein älteres CFW-emuMMC-Setup von uns hat oder ein CFW-Setup von Dritten genutzt wurde.
 
@@ -23,7 +23,7 @@ Außerdem enthält die ```Neufassung``` jetzt einen detaillierteren Leitfaden zu
 
 - **```Wenn du dieser Anleitung folgst, bleiben deine Spiele und Spielstände erhalten.```**
 
-## I.    SD-Karte vorbereiten und bereinigen!
+### I. **SD-Karte vorbereiten und bereinigen!**
 
 1. Starte die Switch neu, um den Hekate Bootloader zu laden.
    - Falls die Switch ausgeschaltet ist, führe bei einer V1 Switch die RCM-Payload-Methode aus oder starte die Switch ganz normal, wenn ein ModChip eingebaut ist.
@@ -51,7 +51,7 @@ Außerdem enthält die ```Neufassung``` jetzt einen detaillierteren Leitfaden zu
 
 ---
 
-## II. Upgrade durchführen mit der aktuellen ZIP-Datei des ```NX blue pack - AIO CFW Pack```
+### II. **Upgrade durchführen mit der aktuellen ZIP-Datei des** ```NX blue pack - AIO CFW Pack```
 
 1. Lade das neueste NX blue pack [hier](https://github.com/glitched-nx/blue_pack_NX/releases/latest) herunter.
 
@@ -75,9 +75,9 @@ Außerdem enthält die ```Neufassung``` jetzt einen detaillierteren Leitfaden zu
 
 ---
 
-## III. Firmware-Download und Update mit Daybreak Quick direkt über die Switch
+### III. **Firmware-Download und Update mit Daybreak Quick direkt über die Switch**
 
-#### Für das Firmware-Update kannst du deine Switch-Konsole direkt nutzen. Folge diesen Schritten:
+#### **Für das Firmware-Update kannst du deine Switch-Konsole direkt nutzen. Folge diesen Schritten:**
 
 1. Öffne im Hauptmenü das ```Homebrew-Menü```, indem du das Album auswählst.
 2. Starte das Tool ```AIO Switch Updater - Switch```.
@@ -95,7 +95,7 @@ Außerdem enthält die ```Neufassung``` jetzt einen detaillierteren Leitfaden zu
    - Wähle ```Switch neustarten```, um den Neustart einzuleiten. Nach dem Neustart wird Hekate gestartet.
 7. Starte von Hekate aus über das Launch-Menü erneut mit dem Button ```atmosphere blue emu```, um das Firmware-Update abzuschließen.
 
-#### **Alternative Möglichkeit zum Herunterladen der aktuellen Firmware**
+### **Alternative Möglichkeit zum Herunterladen der aktuellen Firmware**
 
 - **Firmware-Download über Ultrahand-Overlay**
   - Um das Ultrahand-Overlay-Menü zu öffnen, drücke gleichzeitig die **`L + R + Plus`** Tasten-Kombination.
