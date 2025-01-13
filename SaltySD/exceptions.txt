@@ -50,3 +50,12 @@ X0100964012528000
 ;Donkey Kong Country: Tropical Freeze
 ;Crash at second level
 X0100C1F0051B6000
+
+;Mario Kart 8 Deluxe
+;Crash
+
+
+;Death Road to Canada
+;crash
+0100423009358000
+0100423009358800
